@@ -13,18 +13,18 @@
     <h1>Transportation</h1>
     <h2>About</h2>
 
-  div>
+  <div>
       <p>There are several types of transportation.</p>
     </div>
 
-  div>
+  <div>
       <h2>Methods of Transportation</h2>
 
   <p>Depending on your destination, you may have many options to get you there. Below is a list of some of the most
         common types of transportation available today.</p>
     </div>
 
-  div>
+  <div>
       <ul>
         <li>Car</li>
         <li>Bus</li>
@@ -39,7 +39,7 @@
       <p>Each type of <b>transportation</b> has its own advantages and disadvantages. I've ranked my favorites below.
       </p>
 
-  ol>
+  <ol>
         <li>Car</li>
         <li>Airplane</li>
         <li>Train</li>
